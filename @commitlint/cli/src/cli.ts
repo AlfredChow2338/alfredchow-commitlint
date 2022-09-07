@@ -251,7 +251,9 @@ async function main(args: MainArgs) {
 	}
 
 	const results = await Promise.all(
-		messages.map((message) => lint(message, loaded.rules, opts))
+		messages.map((message) =>
+			lint(message + JSON.stringify(loaded), loaded.rules, opts)
+		)
 	);
 
 	if (Object.keys(loaded.rules).length === 0) {
