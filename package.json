@@ -1,8 +1,7 @@
 {
   "name": "@alfredchow/commitlint",
   "description": "Lint commit messages",
-  "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "scripts": {
     "build": "tsc -b",
@@ -64,12 +63,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/conventional-changelog/commitlint.git"
+    "url": "https://github.com/AlfredChow2338/alfredchow-commitlint"
   },
   "bugs": {
-    "url": "https://github.com/conventional-changelog/commitlint/issues"
+    "url": "https://github.com/AlfredChow2338/alfredchow-commitlint"
   },
-  "homepage": "https://github.com/conventional-changelog/commitlint#readme",
   "keywords": [
     "conventional",
     "conventional-changelog",
