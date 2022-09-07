@@ -40,7 +40,7 @@
     "@commitlint/utils": "^17.0.0"
   },
   "dependencies": {
-    "@commitlint/cli": "^17.2.0",
+    "@alfredchow/commitlint-cli": "^1.0.0",
     "execa": "^5.0.0"
   },
   "gitHead": "a83357fa9d123f742da28673388baa17618f7e68"
