@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [17.2.0](https://github.com/AlfredChow2338/alfredchow-commitlint/compare/v17.1.2...v17.2.0) (2022-09-07)
+
+
+### Features
+
+* 1.0.4 ([a0928ab](https://github.com/AlfredChow2338/alfredchow-commitlint/commit/a0928abaeb87576b6891c853c1ddb190d5fc8798))
+* 1.0.5 ([b42b2d5](https://github.com/AlfredChow2338/alfredchow-commitlint/commit/b42b2d535cc76e9b5a03cceb35bf3f4b17e50fb9))
+* add commitlint.config.js ([a84053a](https://github.com/AlfredChow2338/alfredchow-commitlint/commit/a84053a5cba908a3d5af72ae25d2be8de150aacf))
+* log the loaded flag ([979faed](https://github.com/AlfredChow2338/alfredchow-commitlint/commit/979faedeb23cfa450bba77ba7165f869c6acd4f7))
+
+
+
+
+
 ## [17.1.2](https://github.com/conventional-changelog/commitlint/compare/v17.1.1...v17.1.2) (2022-08-29)
 
 
