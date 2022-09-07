@@ -19,6 +19,7 @@ export default async function lint(
 	rawRulesConfig?: QualifiedRules,
 	rawOpts?: LintOptions
 ): Promise<LintOutcome> {
+	console.log('Lint !!!');
 	const opts = rawOpts
 		? rawOpts
 		: {defaultIgnores: undefined, ignores: undefined};

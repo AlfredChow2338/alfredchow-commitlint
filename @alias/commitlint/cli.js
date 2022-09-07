@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-const pkgDir = require('@commitlint/cli');
+const pkgDir = require('@alfredchow/commitlint/cli');
 require(pkgDir);

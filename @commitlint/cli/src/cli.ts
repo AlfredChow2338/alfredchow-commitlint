@@ -161,7 +161,7 @@ async function resolveArgs(args: MainArgs): Promise<MainArgsObject> {
 }
 
 async function main(args: MainArgs) {
-	console.log('This is main program (Alfred).');
+	console.log('main !!!');
 	const options = await resolveArgs(args);
 	if (typeof options.edit === 'undefined') {
 		options.edit = false;

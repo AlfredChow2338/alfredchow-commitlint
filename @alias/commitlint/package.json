@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@commitlint/cli": "^17.2.0",
+    "@alfredcohw/commitlint/cli": "^1.0.8",
     "@commitlint/types": "^17.0.0"
   },
   "devDependencies": {
