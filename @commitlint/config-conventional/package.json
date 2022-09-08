@@ -1,6 +1,6 @@
 {
-  "name": "@commitlint/config-conventional",
-  "version": "17.1.0",
+  "name": "@alfredchow/commitlint-config-conventional",
+  "version": "1.0.0",
   "description": "Shareable commitlint config enforcing conventional commits",
   "files": [
     "index.js"
